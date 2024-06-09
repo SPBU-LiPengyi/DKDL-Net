@@ -11,3 +11,7 @@ train_single: train teacher model
 data: use CWRU dataset, link is https://github.com/s-whynot/CWRU-dataset or https://engineering.case.edu/bearingdatacenter/home
 
 Any question contact with Li Pengyi: st122719@student.spbu.ru
+
+You need create dataset file, then open your project
+
+I wish you all the best.
